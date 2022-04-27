@@ -1,0 +1,13 @@
+* {
+    background-color: rgb(73, 129, 234);
+    font-family: fantasy;
+}
+
+h1,
+h3 {
+    color: rgb(240, 102, 16)
+}
+
+h1 {
+    text-align: center;
+}
